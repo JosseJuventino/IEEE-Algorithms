@@ -55,3 +55,12 @@ int main() {
   cout << "La longitud de la LCS es: " << LCS(x, y, n, m) << endl;
   return 0;
 }
+
+/*
+    Otros problemas clásicos que se pueden resolver utilizando la subsecuencia
+    común más larga son:
+        - Distancia de edición
+        - Subsecuencia común más larga de tres secuencias
+        - Subsecuencia común más larga con restricciones
+        - Subsecuencia común más larga con operaciones de inserción y eliminación
+*/

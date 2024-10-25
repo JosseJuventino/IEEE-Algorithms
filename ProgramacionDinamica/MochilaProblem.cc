@@ -58,3 +58,11 @@ int main() {
        << endl;
   return 0;
 }
+
+/*
+    Otros algoritmos mas eficientes que se pueden utilizar para resolver el
+    problema de la mochila son:
+        - Algoritmo de la mochila fraccionaria
+        - Algoritmo de la mochila de 0/1 con programación dinámica
+        - Algoritmo de la mochila de 0/1 con ramificación y poda
+*/
