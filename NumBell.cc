@@ -47,3 +47,13 @@ unsigned long long bellNumber(int n) {
 
   return bell[n];
 }
+
+int main(int argc, char const *argv[]) {
+  int n;
+  cout << "Introduce el valor de n: ";
+  cin >> n;
+
+  cout << "El número de Bell B_" << n << " es: " << bellNumber(n) << endl;
+
+  return 0;
+}
